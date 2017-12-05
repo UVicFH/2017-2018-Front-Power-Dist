@@ -106,6 +106,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IXLJEEFT
 
+[Document5]
+DocumentPath=..\..\..\..\..\..\smithbe\Desktop\Drive\HYBRID\Electrical\2017-2018\Altium Libraries\UVICHyrbidLibrary.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -1052,9 +1069,9 @@ PartTypes=0
 Net1=NetName=NetC10_1|NetColor=$00FFFF6E
 Net2=NetName=RIGHT BRB|NetColor=$00FFFF6E
 Net3=NetName=NetC9_1|NetColor=$00FFFF6E
-Net4=NetName=NetC5_1|NetColor=$00FFFF6E
-Net5=NetName=NetC7_1|NetColor=$00FFFF6E
-Net6=NetName=NetC6_1|NetColor=$00FFFF6E
+Net4=NetName=NetC6_1|NetColor=$00FFFF6E
+Net5=NetName=NetC5_1|NetColor=$00FFFF6E
+Net6=NetName=NetC7_1|NetColor=$00FFFF6E
 Net7=NetName=NetACCEL1_2|NetColor=$00FFFF6E
 
 [Comparison Options]
