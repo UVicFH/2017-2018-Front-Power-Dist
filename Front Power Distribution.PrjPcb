@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Front Power Distribution
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -123,6 +123,47 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUNXASIJ
 
+[Document6]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Free Documents\NC Drill\Front Power Dist.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Free Documents\Gerber\Front Power Dist.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\NC Drill\Front Power Dist.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\Gerber\Front Power Dist.REP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\Gerber\Front Power Dist.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\NC Drill\Front Power Dist.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -132,6 +173,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
 ConfigurationType=
+
+[Generic_EDE]
+OutputDir=Project Outputs for Front Power Distribution
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1213,9 +1257,9 @@ PartTypes=0
 Net1=NetName=NetC10_1|NetColor=$00FFFF6E
 Net2=NetName=RIGHT BRB|NetColor=$00FFFF6E
 Net3=NetName=NetC9_1|NetColor=$00FFFF6E
-Net4=NetName=NetC5_1|NetColor=$00FFFF6E
-Net5=NetName=NetC7_1|NetColor=$00FFFF6E
-Net6=NetName=NetC6_1|NetColor=$00FFFF6E
+Net4=NetName=NetC6_1|NetColor=$00FFFF6E
+Net5=NetName=NetC5_1|NetColor=$00FFFF6E
+Net6=NetName=NetC7_1|NetColor=$00FFFF6E
 Net7=NetName=NetACCEL1_2|NetColor=$00FFFF6E
 
 [Comparison Options]
